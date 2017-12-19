@@ -1,2 +1,3 @@
-#this is python world
+#this is python world 
 print "Hello World"
+print "Hello Friends"
