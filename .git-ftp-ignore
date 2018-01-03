@@ -1,0 +1,6 @@
+test/*
+!test/personal/bng.html
+*.md
+#*.html
+*.py
+
